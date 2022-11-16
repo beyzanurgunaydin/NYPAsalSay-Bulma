@@ -1,0 +1,11 @@
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\bin\Debug\AsalSayıBulma.exe.config
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\bin\Debug\AsalSayıBulma.exe
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\bin\Debug\AsalSayıBulma.pdb
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.csproj.AssemblyReference.cache
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.csproj.SuggestedBindingRedirects.cache
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.Form1.resources
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.Properties.Resources.resources
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.csproj.GenerateResource.cache
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.csproj.CoreCompileInputs.cache
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.exe
+C:\Users\gunay\source\repos\AsalSayıBulma\AsalSayıBulma\obj\Debug\AsalSayıBulma.pdb
